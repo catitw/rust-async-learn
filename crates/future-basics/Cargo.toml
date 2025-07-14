@@ -1,0 +1,6 @@
+[package]
+name = "future-basics"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
